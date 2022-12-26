@@ -5,6 +5,7 @@
 [0.37494525375589727, 0.82629574930215784]
 ### Model accuracy
 ![model_accuracy](/img/model_acc2.png)
+<img src="/img/model_acc2.png" width="50%">
 ### Model loss
 ![model_loss](/img/model_loss.png)
 
