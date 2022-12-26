@@ -1,8 +1,8 @@
 # 卒業研究 数値結果
 ## Convolutional Neural Network
 ### loss and accuracy
-2/2 [==============================] - 0s 21ms/step - loss: 1.3228 - accuracy: 0.5143
-[1.3227883577346802, 0.5142857432365417]
+2/2 [==============================] - 0s 21ms/step - loss: 0.3078 - accuracy: 0.9332
+[0.37494525375589727, 0.92629574930215784]
 ### Model accuracy
 ![model_accuracy](/img/model_acc.png)
 ### Model loss
