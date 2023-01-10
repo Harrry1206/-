@@ -17,4 +17,5 @@
 ![GradCAM(A5)](/img/GradCAM(1).jpg) ![GradCAM(A5_2)](/img/GradCAM(1_1).jpg)
 
 ## SmoothGrad
-a
+![Smoothgrad(1)](img/Smoothgrad_img(224).png) ![Smoothgrad(2)](/img/Smoothgrad_img(626).png)
+![Smoothgrad(1)](img/Smoothgrad_img(395).png) ![Smoothgrad(2)](/img/Smoothgrad_img(598).png)
